@@ -1,4 +1,4 @@
-# Research resultas
+# Research results
 - This project renders an interactive map of adoption cases in Morelia.
 - It records cases with coordinates, adopter status (SI-YES/NO-NOT/NA), and additional data.
 - The map provides:
